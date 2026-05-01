@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local runtime data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj*
+*.sln
+*.sw?
