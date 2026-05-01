@@ -25,7 +25,7 @@ A full-stack web application for managing team tasks. This project features a ro
    ```
 2. Create a virtual environment:
    ```bash
-   python -m venv venv
+   py -m venv venv
    ```
 3. Activate the virtual environment:
    - **Windows:** `.\venv\Scripts\activate`
